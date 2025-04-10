@@ -1,0 +1,21 @@
+Cơ sở dữ liệu là gì? Các loại cơ sở dữ liệu phổ biến
+Cơ sở dữ liệu (database) là một tập hợp dữ liệu được tổ chức, lưu trữ và quản lý một cách có hệ thống, thường trên máy tính, để có thể truy cập, cập nhật và sử dụng một cách hiệu quả. Nó được thiết kế để lưu trữ thông tin theo cách mà người dùng hoặc ứng dụng có thể dễ dàng truy xuất khi cần.
+
+Các loại cơ sở dữ liệu phổ biến:
+
+Cơ sở dữ liệu quan hệ (Relational Database):
+Dữ liệu được lưu trữ dưới dạng bảng (tables) có quan hệ với nhau thông qua các khóa (keys).
+Ví dụ: MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server.
+Cơ sở dữ liệu phi quan hệ (NoSQL):
+Không sử dụng bảng mà lưu trữ dữ liệu theo các mô hình như key-value, document, column-family, hoặc graph.
+Phù hợp với dữ liệu không cấu trúc hoặc bán cấu trúc.
+Ví dụ: MongoDB (document), Redis (key-value), Cassandra (column-family), Neo4j (graph).
+Cơ sở dữ liệu phân cấp (Hierarchical Database):
+Dữ liệu được tổ chức theo cấu trúc cây, với mối quan hệ cha-con.
+Ví dụ: IBM IMS.
+Cơ sở dữ liệu mạng (Network Database):
+Mở rộng của mô hình phân cấp, cho phép nhiều mối quan hệ hơn.
+Ví dụ: Integrated Data Store (IDS).
+Cơ sở dữ liệu hướng đối tượng (Object-Oriented Database):
+Lưu trữ dữ liệu dưới dạng các đối tượng, thường dùng trong lập trình hướng đối tượng.
+Ví dụ: ObjectDB, db4o.
