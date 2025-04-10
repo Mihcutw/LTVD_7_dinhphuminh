@@ -1,0 +1,11 @@
+Hệ quản trị cơ sở dữ liệu (DBMS) là gì? Một số DBMS phổ biến
+Hệ quản trị cơ sở dữ liệu (Database Management System - DBMS) là phần mềm được sử dụng để tạo, quản lý, và vận hành cơ sở dữ liệu. Nó cung cấp giao diện để người dùng hoặc ứng dụng tương tác với dữ liệu, bao gồm các chức năng như thêm, xóa, sửa, truy vấn dữ liệu, và đảm bảo tính toàn vẹn, bảo mật.
+
+Một số DBMS phổ biến:
+
+MySQL: Mã nguồn mở, phổ biến cho ứng dụng web.
+PostgreSQL: Mã nguồn mở, hỗ trợ nhiều tính năng nâng cao.
+Oracle Database: DBMS thương mại, mạnh mẽ cho doanh nghiệp lớn.
+Microsoft SQL Server: Phát triển bởi Microsoft, tích hợp tốt với hệ sinh thái Windows.
+MongoDB: NoSQL, chuyên cho dữ liệu phi cấu trúc.
+SQLite: Nhẹ, không cần server, dùng trong ứng dụng nhúng.
