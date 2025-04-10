@@ -1,0 +1,13 @@
+phpMyAdmin là gì? Các tính năng chính của phpMyAdmin
+phpMyAdmin là một công cụ quản trị cơ sở dữ liệu mã nguồn mở, được viết bằng PHP, cho phép người dùng quản lý cơ sở dữ liệu MySQL hoặc MariaDB thông qua giao diện web trực quan mà không cần sử dụng dòng lệnh.
+
+Các tính năng chính của phpMyAdmin:
+
+Quản lý cơ sở dữ liệu: Tạo, xóa, sửa cơ sở dữ liệu và bảng.
+Thực thi truy vấn SQL: Cho phép chạy các lệnh SQL trực tiếp qua giao diện.
+Quản lý dữ liệu: Thêm, sửa, xóa bản ghi trong bảng.
+Xuất/nhập dữ liệu: Xuất cơ sở dữ liệu ra file (SQL, CSV, v.v.) và nhập từ file.
+Quản lý người dùng: Tạo, chỉnh sửa quyền truy cập của người dùng MySQL.
+Kiểm tra cấu trúc bảng: Xem, chỉnh sửa cấu trúc bảng (cột, khóa, chỉ mục).
+Hỗ trợ đa ngôn ngữ: Giao diện có thể tùy chỉnh với nhiều ngôn ngữ, bao gồm tiếng Việt.
+Giao diện thân thiện: Dễ sử dụng, không yêu cầu kiến thức sâu về lệnh SQL.
