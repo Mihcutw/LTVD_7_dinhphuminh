@@ -1,0 +1,12 @@
+MySQL là gì? Các đặc điểm chính của MySQL
+MySQL là một hệ quản trị cơ sở dữ liệu quan hệ (RDBMS) mã nguồn mở, được sử dụng rộng rãi trong các ứng dụng web và hệ thống quản lý dữ liệu. Nó sử dụng ngôn ngữ truy vấn có cấu trúc (SQL - Structured Query Language) để thao tác dữ liệu.
+
+Các đặc điểm chính của MySQL:
+
+Mã nguồn mở: Miễn phí trong phiên bản cộng đồng, được hỗ trợ bởi cộng đồng lớn.
+Hiệu suất cao: Tối ưu hóa cho tốc độ truy vấn và xử lý dữ liệu lớn.
+Đa nền tảng: Chạy trên Windows, Linux, macOS, v.v.
+Hỗ trợ nhiều công cụ lưu trữ (Storage Engines): Như InnoDB (mặc định), MyISAM, Memory, hỗ trợ linh hoạt theo nhu cầu.
+Bảo mật: Cung cấp cơ chế xác thực, mã hóa dữ liệu, và quản lý quyền truy cập.
+Khả năng mở rộng: Hỗ trợ sao chép (replication) và phân cụm (clustering) để xử lý tải lớn.
+Dễ sử dụng: Có giao diện dòng lệnh và tích hợp với các công cụ đồ họa như phpMyAdmin.
